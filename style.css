@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(https://wallpapercave.com/wp/wp11320664.jpg);
+    font-family: Arial, sans-serif;
+}
+
+.login-box{
+    max-width: 500px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
+
+.logo{
+    width: 120px;
+}
+
+.sidebar{
+    min-height: 100vh;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+.notebook-body{
+    padding: 10px;
+}
+
+.notebook-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.notebook-text{
+    color: rgb(143, 80, 143);
+}
+
+.card img{
+    height: 180px;
+    object-fit: cover;
+}
+
+.btn:hover{
+    transform: scale(1.02);
+}
